@@ -4,3 +4,4 @@ test.*
 dist
 wheel
 build
+*.egg-info
