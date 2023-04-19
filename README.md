@@ -1,6 +1,6 @@
 # BlitzActions
 
-is a framework to translate test prompts to function executions
+is a framework to translate text prompts to function executions
 
 ## Installation
 
